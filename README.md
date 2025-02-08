@@ -1,9 +1,10 @@
 Project 1:
-3. Implement the backpropagation algorithm from scratch and verify its correctness.
-2. Build a multi-layer feedforward neural network to solve a classification problem.
-4. Visualize how the weights of a neural network change during training.
-5. Building a simple neural network using iris dataset
-1. Implement a single-layer perceptron from scratch without using any neural network libraries.
+
+- 1. Implement a single-layer perceptron from scratch without using any neural network libraries.
+- 2. Build a multi-layer feedforward neural network to solve a classification problem.
+- 3. Implement the backpropagation algorithm from scratch and verify its correctness.
+- 4. Visualize how the weights of a neural network change during training.
+- 5. Building a simple neural network using iris dataset
 
 Project 2: Vanishing Gradient
 
